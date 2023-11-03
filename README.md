@@ -5,9 +5,6 @@
     <a href="https://www.linkedin.com/in/adam-calleja/">
       <img src="https://img.shields.io/badge/LinkedIn-F27408?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://github.com/Adam-Calleja">
-      <img src="https://img.shields.io/badge/GitHub-F27408?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=Adam-Calleja&style=flat-square&color=blue" alt=""/>
