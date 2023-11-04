@@ -25,3 +25,13 @@ My prior role as a Data Science Intern at the University of Cambridge provided h
 
 As well as leading a two person group project as part of my internship with the Cambridge Open Zettascale Lab, I have had many opportunities to develop my leadership and interpersonal skills in academia. During my university's first-year team project, I successfully led a group of five in the development of a website. As the chair of our weekly meetings, I prioritized ensuring that every team member had an equal opportunity to contribute their ideas and actively encouraged participation. This provided our team with a wide variety of unique ideas, allowing for a more innovative approach to the project, ultimately leading to its successful completion.
 
+### 🛠️ Languages and Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+</div>
